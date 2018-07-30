@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright (c) 2017 H&O E-commerce specialisten B.V. (http://www.h-o.nl/)
+ * Copyright (c) 2017 H&O E-commerce specialisten B.V. (http://www.h-o.nl/) <--- LoL
  * See LICENSE.txt for license details.
  */
 namespace Paazl\Shipping\Cron;
